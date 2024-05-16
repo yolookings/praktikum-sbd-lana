@@ -2,4 +2,4 @@
 ---
 ## praktikum sbd terkait menggunakan MySQL pada phpMyAdmin
 ---
-oleh : mwlanaz
+oleh : Maulana Ahmad Zahiri
